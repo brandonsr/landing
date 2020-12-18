@@ -205,3 +205,68 @@ body{
     text-align: center;
     border-bottom: 40px;
 }
+
+.article-photos{
+    max-width: 800px;
+}
+
+.aside
+{
+    position: relative;
+    left: 40px;
+}
+
+
+.destacados-widget ul li{
+    list-style: none;
+}
+
+.destacados-widget ul li a{
+    list-style: none;
+    text-decoration: none;
+}
+
+.foto-del-autor img{
+    border-radius: 50%;
+    align-items: center;
+}
+
+.autor-widget{
+    align-items: center;
+    text-align: center;
+}
+
+.datos-autor{
+    text-align: left;
+}
+
+.nombre-autor{
+    text-align: center;
+    font-weight: 900;
+    padding: 0;
+    margin: 0;
+}
+
+.profesion{
+    text-align: center;
+    font-weight: 100;
+    font-style: italic;
+    color: #9c9c9c;
+    font-size: 15px;
+    margin-bottom: 20px;
+}
+
+.info{
+    font-size: 13px;
+    margin-bottom: 30px;
+}
+
+.destacados-widget{
+    text-align: center;
+}
+.titulo-destacados{
+    margin-bottom: 15px;
+}
+.destacados-widget ul li{
+    padding: 10px;
+}
